@@ -1,1 +1,1 @@
-https://github.com/mbarrier
+[My GitHub Profile](https://github.com/mbarrier)
