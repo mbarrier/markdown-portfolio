@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- raindrops on roses :rose:
+- whiskers on kittens :cat:
+- bright copper kettles :trophy:
+- warm woolen mitens :open_hands:
